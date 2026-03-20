@@ -1,6 +1,5 @@
 # GigSafe — Parametric Income Insurance for Gig Workers
 
-> **Guidewire DEVTrails 2026 | Team Submission | Phase 1: Ideation & Foundation**
 
 ---
 
@@ -79,11 +78,11 @@ GigSafe covers **income lost due to qualifying external disruptions only.**
 | Local Curfew / Strike | Verified govt curfew or civic disruption alert in worker's delivery zone | Govt notification feeds / mock |
 
 ### Explicitly Excluded (Hard Constraints)
-- ❌ Health insurance or medical expenses
-- ❌ Accident coverage or hospitalization
-- ❌ Vehicle repair, fuel, or maintenance
-- ❌ Life insurance
-- ❌ Income loss due to personal reasons (illness, leave)
+- Health insurance or medical expenses
+- Accident coverage or hospitalization
+- Vehicle repair, fuel, or maintenance
+- Life insurance
+- Income loss due to personal reasons (illness, leave)
 
 ---
 
@@ -312,14 +311,11 @@ GigSafe's fraud engine validates every auto-initiated claim against the followin
 
 As of the Phase 1 submission, the following has been completed:
 
-- ✅ Figma wireframes for worker onboarding, active policy view, claim notification, and payout screen
 - ✅ System architecture diagram and database schema design
 - ✅ GitHub repository initialised with project structure
 - ✅ Weekly premium calculation logic defined and rule-based prototype built
 - ✅ Parametric trigger thresholds defined with data source mapping
 
-**2-minute strategy and prototype video:** [Link to be added]  
-**GitHub Repository:** [Link to be added]
 
 ---
 
@@ -574,4 +570,3 @@ Beyond infrastructure resilience, GigSafe monitors for faults specific to the in
 
 ---
 
-*Built with ❤️ for India's invisible workforce — the delivery partners keeping our cities running.*
